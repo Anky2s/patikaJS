@@ -3,4 +3,4 @@
 
 ![Alt Text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev2/figures/todolist.gif)
 
-![Alt Text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif |width=100)
+![Alt Text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif | width=100)
