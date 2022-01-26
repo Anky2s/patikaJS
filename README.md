@@ -3,4 +3,4 @@
 
 ![Alt Text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev2/figures/todolist.gif)
 
-<img src=https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif width="100" height="100">
+<img src=https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif width="600" >
